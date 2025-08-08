@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Omkar Mele  
+### 🚀 Passionate about DSA & Web Development | 🎯 Competitive Programmer | 💻 Final Year CSE Student
 
-<!--
-**omkarmele10/omkarmele10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Current Focus
+- Building impactful projects that blend **DSA logic** with **modern web development**
+- Debugging and optimizing code for performance and clarity
+- Exploring advanced algorithms 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Interests
+- 🧠 Data Structures & Algorithms
+- 🌐 Full-stack Web Development
+- 📊 Competitive Programming
+
+---
+
+## 📫 Let's Connect
+- GitHub: [@omkarmele10](https://github.com/omkarmele10)
+- Email: omk3743@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I can debug a recursive function faster than most people can say “stack overflow.” 😄
